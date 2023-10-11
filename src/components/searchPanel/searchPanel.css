@@ -1,0 +1,24 @@
+.mantine-1e6sjil[data-with-icon] {
+  height: 48px;
+  border-radius: 8px;
+}
+.searchButton {
+  padding: 0;
+  margin: 0;
+  width: 83px;
+  height: 32px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  align-items: center;
+  color: #ffffff;
+}
+.searchPanel {
+  width: 100%;
+}
+.seachButtonSection {
+  display: flex;
+  gap: 5px;
+}

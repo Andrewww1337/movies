@@ -1,0 +1,31 @@
+.searchMovieSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.errorSection {
+  position: absolute;
+  height: 50px;
+  align-items: center;
+  text-align: center;
+  padding-top: 10px;
+  background-color: rgb(240, 144, 129);
+  border-radius: 10px;
+  color: aliceblue;
+  width: 100%;
+  z-index: 10;
+  top: 100px;
+  left: 0;
+}
+.searchMoviePage {
+  max-width: 1116px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+@media (max-width: 768px) {
+  .searchMovieSection {
+    margin-top: 20px;
+  }
+}

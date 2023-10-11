@@ -1,0 +1,28 @@
+.mainSection {
+  max-width: 773px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-left: 10px;
+}
+.pagination {
+  margin: 24px auto 44px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 596px;
+}
+.sortingPanel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+@media (max-width: 678px) {
+  .mantine-Pagination-dots {
+    display: none;
+  }
+}

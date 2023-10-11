@@ -1,0 +1,65 @@
+.customHeader {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  position: relative;
+  justify-content: center;
+  max-width: 1116px;
+  align-items: center;
+  height: 84px;
+}
+.bigLogo {
+  width: 141px;
+  height: 36px;
+}
+.header {
+  width: 100%;
+  background-color: #ffffff;
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 60px;
+}
+.linkToPage {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #232134;
+  text-decoration: none;
+}
+.linkToPage_active {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #5e96fc;
+  text-decoration: none;
+}
+.logo {
+  position: absolute;
+  left: 0px;
+}
+.headerLink {
+  white-space: nowrap;
+}
+@media (max-width: 768px) {
+  .linkToPage {
+    font-size: 14px;
+  }
+  .linkToPage_active {
+    font-size: 14px;
+  }
+  .navigation {
+    gap: 50px;
+  }
+}
+@media (max-width: 350px) {
+  .navigation {
+    gap: 10px;
+  }
+}

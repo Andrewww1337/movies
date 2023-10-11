@@ -1,0 +1,30 @@
+<svg width="2260" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="2262" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_16">
+   <g stroke="null" transform="matrix(14.690663579527179,0,0,14.244236207050678,1.8799954630208617,114.86832891591428) " stroke-width="0" id="svg_14"/>
+   <g stroke="null" transform="matrix(14.690663579527179,0,0,14.244236207050678,1.8799954630208617,114.86832891591428) " stroke-linejoin="round" stroke-linecap="round" id="svg_13"/>
+   <g stroke="null" transform="matrix(14.690663579527179,0,0,14.244236207050678,1.8799954630208617,114.86832891591428) " id="svg_9">
+    <title stroke="null" transform="translate(-0.6807025074958801,-3.1272528171539307) translate(0.7040004730224609,0) translate(0,-4.9599995613098145) ">movie-recorder</title>
+    <desc stroke="null" transform="translate(-0.6807025074958801,-3.1272528171539307) translate(0.7040004730224609,0) translate(0,-4.9599995613098145) ">Created with Sketch Beta.</desc>
+
+    <g fill-rule="evenodd" fill="none" id="svg_10">
+     <g stroke="null" fill="#000000" id="svg_11">
+      <path stroke="null" id="svg_12" d="m30.023298,17.912748l-6,-5l0,-3l6,-4l0,12l0,0zm-11,-13.988c-2.768,0 -5.011,-2.244 -5.011,-5.012c0,-2.768 2.243,-5.011 5.011,-5.011c2.768,0 5.011,2.243 5.011,5.011c0,2.768 -2.243,5.012 -5.011,5.012l0,0zm3,11.988c0,1.104 -0.896,2 -2,2l-16,0c-1.104,0 -2,-0.896 -2,-2l0,-8c0,-1.104 0.896,-2 2,-2l16,0c1.104,0 2,0.896 2,2l0,8l0,0zm-20,-16c0,-2.209 1.791,-4 4,-4c2.209,0 4,1.791 4,4c0,2.209 -1.791,4 -4,4c-2.209,0 -4,-1.791 -4,-4l0,0zm28,4l-6,4c0,-1.214 -0.552,-2.288 -1.406,-3.021c2.032,-1.226 3.406,-3.433 3.406,-5.979c0,-3.866 -3.134,-7 -7,-7c-3.866,0 -7,3.134 -7,7c0,1.962 0.812,3.729 2.111,5l-3.668,0c0.957,-1.063 1.557,-2.456 1.557,-4c0,-3.313 -2.687,-6 -6,-6c-3.313,0 -6,2.687 -6,6c0,1.809 0.816,3.41 2.082,4.511c-1.235,0.68 -2.082,1.979 -2.082,3.489l0,8c0,2.209 1.791,4 4,4l16,0c2.209,0 4,-1.791 4,-4l0,-1l6,5c1.104,0 2,-0.896 2,-2l0,-12c0,-1.104 -0.896,-2 -2,-2l0,0z"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <text stroke="#000" transform="matrix(73.97048580579576,0,0,12.830207031377086,-55462.76623605438,-2183.926445804991) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="4" id="svg_17" y="193.124954" x="756.874712" stroke-width="0" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="250" id="svg_19" y="364.376101" x="486.872908" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Movie Watchlist</text>
+ </g>
+</svg>

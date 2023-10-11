@@ -1,0 +1,135 @@
+.sortingBar {
+  max-width: 315px;
+  width: 100%;
+  max-height: 230px;
+  border: 1px solid #eaebed;
+  border-radius: 12px;
+  background-color: #ffffff;
+  padding: 20px;
+}
+.sortingHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.resetFilterButton {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #acadb9;
+  width: 115px;
+  height: 20px;
+  outline: none;
+  border: none;
+  background-color: inherit;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  margin-left: 15px;
+}
+.resetFilterButton:hover {
+  color: #92c1ff;
+}
+.resetFilterButton:hover > .crossButton {
+  stroke: #92c1ff;
+}
+.resetFilterButton:active {
+  color: #5e96fc;
+}
+.resetFilterButton:active > .crossButton {
+  stroke: #5e96fc;
+}
+.crossButton {
+  stroke: rgba(172, 173, 185, 1);
+}
+.sortingTitle {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #232134;
+  margin-bottom: 32px;
+}
+.selectJob {
+  text-align: left;
+}
+.mantine-Select-label {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #232134;
+  margin-bottom: 8px;
+}
+.mantine-Select-input {
+  height: 42px;
+}
+.mantine-Select-item {
+  border-radius: 8px;
+}
+.mantine-NumberInput-input {
+  height: 42px;
+}
+.selectSalary {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.mantine-NumberInput-label {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #232134;
+  margin-bottom: 8px;
+  margin-top: 20px;
+}
+.selectGenre :hover .chevron {
+  stroke: #3b7cd3;
+}
+.selectGenre :active .chevron {
+  stroke: #5e96fc;
+}
+
+.mantine-NumberInput-control {
+  border: none;
+  outline: none;
+  color: rgba(172, 173, 185, 1);
+}
+.mantine-NumberInput-control :hover {
+  stroke: #92c1ff;
+  background-color: transparent;
+}
+.mantine-NumberInput-control :active {
+  stroke: #5e96fc;
+  background-color: transparent;
+}
+.mantine-Button-root {
+  background-color: #5e96fc;
+  width: 100%;
+  height: 40px;
+  border-radius: 8px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffff;
+  margin-top: 20px;
+  border: none;
+}
+.mantine-Button-root:hover {
+  background-color: #92c1ff;
+}
+.mantine-Button-root:active {
+  background-color: #3b7cd3;
+}

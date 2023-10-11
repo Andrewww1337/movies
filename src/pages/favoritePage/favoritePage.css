@@ -1,0 +1,17 @@
+.favoritePageMovies {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 676px;
+  margin: 40px auto 0px;
+  max-width: 773px;
+}
+.favoritePage {
+  display: flex;
+  flex-direction: column;
+}
+@media (max-width: 768px) {
+  .favoritePageMovies {
+    margin: 20px auto 0px;
+  }
+}

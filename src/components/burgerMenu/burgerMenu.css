@@ -1,0 +1,30 @@
+.burgerMenu {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  transform: translateX(-100%);
+  transition: all 0.3s;
+  z-index: 10;
+  border: none;
+  background-color: transparent;
+}
+.burgerMenu.active {
+  transform: translateX(0%);
+}
+.burgerContent {
+  position: absolute;
+  top: 120px;
+  left: 60px;
+}
+
+@media (max-width: 370px) {
+  .burgerMenu {
+    max-width: 288px;
+  }
+  .burgerContent {
+    left: 30px;
+    top: 180px;
+  }
+}
